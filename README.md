@@ -1,4 +1,4 @@
-# SQL-Aggregations-and-basic-visualisation for marketing campaign data 
+# SQL-Aggregations for marketing campaign data 
 
 ### Objective
 Answer five business questions on the cleaned data with SQL, run from Python on a local SQLite database.
